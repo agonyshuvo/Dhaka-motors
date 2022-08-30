@@ -11,7 +11,7 @@
 Visit the [online documentation](https://adminlte.io/docs) for the most
 updated guide.
 
-!["AdminLTE Presentation"](https://adminlte.io/AdminLTE2.png 'AdminLTE Presentation')
+ <img src="images/Screenshot 2022-08-30 at 11.05.08 pm.png" alt="" style="width:80%;">
 
 ### Image Credits
 
