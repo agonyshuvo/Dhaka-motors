@@ -15,4 +15,3 @@
 
 </html>
 
-<img src="images/Screenshot 2022-08-30 at 11.05.08 pm.png" alt="" style="width:80%;">
