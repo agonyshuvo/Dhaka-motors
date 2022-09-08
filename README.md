@@ -17,3 +17,17 @@ updated guide.
 
 - [Pixeden](http://www.pixeden.com/psd-web-elements/flat-responsive-showcase-psd)
 - [Graphicsfuel](http://www.graphicsfuel.com/2013/02/13-high-resolution-blur-backgrounds/)
+
+## User manual
+
+#Administrator
+username: Khan
+Password: 1234
+
+#Manage
+username: Mr Khan
+Password: 1234
+
+#Customer
+username: 01612
+Password: 1234
