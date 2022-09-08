@@ -16,7 +16,7 @@ Password: 1234<br>
 
 <h2> Customer </h2>
 username: 01612<br>
-Password: 1234<br>
+Password: 1234<br><br><br>
 
 **Download & Preview on [AdminLTE.IO](https://adminlte.io/blog/free-admin-panels/)**
 
