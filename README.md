@@ -20,14 +20,14 @@ updated guide.
 
 ## User manual
 
-#Administrator
-username: Khan
-Password: 1234
+<h2>Administrator </h2> <br>
+username: Khan<br>
+Password: 1234<br><br>
 
-#Manage
-username: Mr Khan
-Password: 1234
+<h2> Manage </h2> <br>
+username: Mr Khan<br>
+Password: 1234<br><br>
 
-#Customer
-username: 01612
-Password: 1234
+<h2> Customer </h2>
+username: 01612<br>
+Password: 1234<br><br>
