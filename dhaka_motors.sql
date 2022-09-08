@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: localhost
--- Generation Time: Sep 08, 2022 at 10:51 AM
+-- Generation Time: Sep 08, 2022 at 10:57 AM
 -- Server version: 10.4.21-MariaDB
 -- PHP Version: 8.0.18
 
@@ -42,8 +42,8 @@ CREATE TABLE `customer` (
 --
 
 INSERT INTO `customer` (`cID`, `name`, `phone`, `email`, `nid`, `userName`, `password`) VALUES
-(33, 'Shuvo ', '01612', 'muntasirhasan32@gmail.com', '12354657686789', 'Hasan', '1234'),
-(34, 'Siam', '01716849089', '', '', '', ''),
+(33, 'Shuvo ', '01612', 'mr.khan@gmail.com', '12354657686789', 'agony.khan\n', '1234'),
+(34, 'Sajid khan', '01716849089', '', '', '', ''),
 (39, '', '', '', '', '', '');
 
 -- --------------------------------------------------------
@@ -380,8 +380,8 @@ CREATE TABLE `staff_info` (
 --
 
 INSERT INTO `staff_info` (`staff_ID`, `name`, `phone`, `email`, `userName`, `password`, `level`, `branch_id`) VALUES
-(1, 'Muntasir ', '01730176622', 'muntasir35@diit.info', 'Mr Khan', '1234', 'manager', 1),
-(2, 'Muntasir', '01636093454', 'careless_siam@yahoo.com', 'Khan', '1234', 'admin', 1);
+(1, 'Shuvo khan', '01716095046', 'agonysuvo@gmail.com', 'Mr Khan', '1234', 'manager', 1),
+(2, 'Shuvo khan', '01612291229', 'shuvo.m.khan@gmail.com', 'Khan', '1234', 'admin', 1);
 
 -- --------------------------------------------------------
 
